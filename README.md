@@ -24,10 +24,10 @@ UI가 있는 경우 스크린샷을 추가해도 좋습니다.
 프로필 이미지와 깃허브 링크를 각 팀원의 실제 주소로 교체하세요.
 
 | <img src="https://github.com/octocat.png" width="100"> | <img src="https://github.com/octocat.png" width="100"> | <img src="https://github.com/octocat.png" width="100"> | <img src="https://github.com/octocat.png" width="100"> |
-| :---: | :---: | :---: | :---: |
-| [팀원 1](https://github.com/octocat) | [팀원 2](https://github.com/octocat) | [팀원 3](https://github.com/octocat) | [팀원 4](https://github.com/octocat) |
-| 역할 | 역할 | 역할 | 역할 |
+| :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+|          [팀원 1](https://github.com/octocat)          |          [팀원 2](https://github.com/octocat)          |          [팀원 3](https://github.com/octocat)          |          [팀원 4](https://github.com/octocat)          |
+|                          역할                          |                          역할                          |                          역할                          |                          역할                          |
 
 ## 라이선스
 
-GNU 라이선스를 사용합니다.
+MIT 라이선스를 사용합니다.
